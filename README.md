@@ -11,10 +11,7 @@
 
 - 📫 How to reach me **sudhanshu0097@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudhanshu kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu kumar" height="30" width="40" /></a>
-</p>
+
 
 ## Github Profile View Count:- <img align="right" margin-top="30px" src="https://profile-counter.glitch.me/CoderTarun/count.svg" />
 </br>
