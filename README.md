@@ -154,8 +154,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sudhanshu0097&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 </br>
 
 <!--
