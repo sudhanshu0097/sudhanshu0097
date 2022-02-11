@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **meesho clone**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **MERN Stack**
 
