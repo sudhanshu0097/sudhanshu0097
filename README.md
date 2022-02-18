@@ -13,8 +13,7 @@
 
 
 
-## Github Profile View Count:- <img align="right" margin-top="30px" src="https://profile-counter.glitch.me/CoderTarun/count.svg" />
-</br>
+
 
 
 ## 🚀 Languages and Tools:-
