@@ -153,6 +153,18 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sudhanshu0097&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/sudhanshu-kumar-4b10b5220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/krsudhanshuu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+
+
+</p>
+
+
+
 </br>
 
 <!--
