@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **sudhanshu0097@gmail.com**
 
+- ⚡ My Hobbies are Cooking and playing football and cricket 
+
+- ⚡ Fun fact: It’s all 0’s and 1’s
+
 
 
 
